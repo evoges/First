@@ -1,2 +1,2 @@
-# First
-First Test Repo
+# First Repository
+The purpose of this repository is simply to get to grips with using GitHub
